@@ -1,0 +1,19 @@
+{
+  "name": "Momofuku-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "firebase": "^2.2.7",
+    "lodash": "^3.10.0",
+    "needle": "^0.10.0"
+  }
+}
